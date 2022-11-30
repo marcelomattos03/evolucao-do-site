@@ -10,4 +10,3 @@ para integrar alguns aspectos da responsividade no site criamos uma lista de coi
 - Priorizar mobile / dispositivos moveis
 - Velocidade do site
 - Deixar o site de forma que as ações que o usuario fará fiquem claras
-- 
